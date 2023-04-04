@@ -1,0 +1,262 @@
+[
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/pinkapple/growthStepDays/avg",
+    "value": 3,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/redapple/growthStepDays/avg",
+    "value": 3,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/yellowapple/growthStepDays/avg",
+    "value": 3,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/cherry/growthStepDays/avg",
+    "value": 3,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/mango/growthStepDays/avg",
+    "value": 3,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/olive/growthStepDays/avg",
+    "value": 3,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/orange/growthStepDays/avg",
+    "value": 3,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/peach/growthStepDays/avg",
+    "value": 3,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/pear/growthStepDays/avg",
+    "value": 3,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/breadfruit/growthStepDays/avg",
+    "value": 3,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/lychee/growthStepDays/avg",
+    "value": 3,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/pomegranate/growthStepDays/avg",
+    "value": 3,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/pinkapple/cuttingRootingChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/redapple/cuttingRootingChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/yellowapple/cuttingRootingChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/cherry/cuttingRootingChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/mango/cuttingRootingChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/olive/cuttingRootingChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/orange/cuttingRootingChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/peach/cuttingRootingChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/pear/cuttingRootingChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/breadfruit/cuttingRootingChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/lychee/cuttingRootingChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/pomegranate/cuttingRootingChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },  
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/pinkapple/cuttingGraftChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/redapple/cuttingGraftChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/yellowapple/cuttingGraftChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/cherry/cuttingGraftChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/mango/cuttingGraftChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/olive/cuttingGraftChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/orange/cuttingGraftChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/peach/cuttingGraftChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/pear/cuttingGraftChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/breadfruit/cuttingGraftChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/lychee/cuttingGraftChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/fruittreeProperties/pomegranate/cuttingGraftChance",
+    "value": 0.9,
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/treeBlocks/otherLogChance",
+    "value": 0.1,
+    "file": "worldgen/treegen/scotspine.json"
+  }
+]

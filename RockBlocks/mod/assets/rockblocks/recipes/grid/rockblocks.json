@@ -1,0 +1,182 @@
+[
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-andesite" }
+		},	
+		"output": { "type": "block", "code": "game:rock-andesite", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-chalk" }
+		},	
+		"output": { "type": "block", "code": "game:rock-chalk", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-chert" }
+		},	
+		"output": { "type": "block", "code": "game:rock-chert", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-conglomerate" }
+		},	
+		"output": { "type": "block", "code": "game:rock-conglomerate", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-limestone" }
+		},	
+		"output": { "type": "block", "code": "game:rock-limestone", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-claystone" }
+		},	
+		"output": { "type": "block", "code": "game:rock-claystone", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-granite" }
+		},	
+		"output": { "type": "block", "code": "game:rock-granite", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-sandstone" }
+		},	
+		"output": { "type": "block", "code": "game:rock-sandstone", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-shale" }
+		},	
+		"output": { "type": "block", "code": "game:rock-shale", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-basalt" }
+		},	
+		"output": { "type": "block", "code": "game:rock-basalt", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-peridotite" }
+		},	
+		"output": { "type": "block", "code": "game:rock-peridotite", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-phyllite" }
+		},	
+		"output": { "type": "block", "code": "game:rock-phyllite", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-slate" }
+		},	
+		"output": { "type": "block", "code": "game:rock-slate", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-bauxite" }
+		},	
+		"output": { "type": "block", "code": "game:rock-bauxite", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-obsidian" }
+		},	
+		"output": { "type": "block", "code": "game:rock-obsidian", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-kimberlite" }
+		},	
+		"output": { "type": "block", "code": "game:rock-kimberlite", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-scoria" }
+		},	
+		"output": { "type": "block", "code": "game:rock-scoria", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-tuff" }
+		},	
+		"output": { "type": "block", "code": "game:rock-tuff", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-halite" }
+		},	
+		"output": { "type": "block", "code": "game:rock-halite", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "RR,RR",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "game:stone-suevite" }
+		},	
+		"output": { "type": "block", "code": "game:rock-suevite", quantity: 2 }
+	}	
+]

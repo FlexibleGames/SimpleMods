@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "RockBlocks",
+  "name": "Rock Blocks Mod",
+  "authors": [ "Flexible Games" ],
+  "description": "Adds recipes to craft rock blocks from stones.",
+  "website": "https://www.youtube.com/c/FlexibleGames",
+  "side": "Universal",
+  "version": "1.0.0",
+  "dependency": {}
+}

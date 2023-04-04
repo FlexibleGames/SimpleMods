@@ -1,0 +1,29 @@
+[
+	{
+		"ingredientPattern": "MM,MM",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"M": { "type": "item", "code": "game:stone-whitemarble" }
+		},	
+		"output": { "type": "block", "code": "game:rock-whitemarble", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "MM,MM",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"M": { "type": "item", "code": "game:stone-redmarble" }
+		},	
+		"output": { "type": "block", "code": "game:rock-redmarble", quantity: 2 }
+	},
+	{
+		"ingredientPattern": "MM,MM",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"M": { "type": "item", "code": "game:stone-greenmarble" }
+		},	
+		"output": { "type": "block", "code": "game:rock-greenmarble", quantity: 2 }
+	}	
+]

@@ -1,0 +1,300 @@
+[
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/amaranth.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/amaranth.json"
+  },  
+
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/rye.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/rye.json"
+  }, 
+  
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/parsnip.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/parsnip.json"
+  }, 
+  
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/onion.json"
+  },
+  {
+	"side": "Server",
+    "op": "add",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/onion.json"
+  },   
+  
+  {
+	"side": "Server",
+    "op": "add",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/flax.json"
+  },
+  {
+	"side": "Server",
+    "op": "add",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/flax.json"
+  },
+
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/rice.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/rice.json"
+  },   
+  
+  {
+	"side": "Server",
+    "op": "add",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/sunflower.json"
+  },
+  {
+	"side": "Server",
+    "op": "add",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/sunflower.json"
+  }, 
+
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/peanut.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/peanut.json"
+  }, 
+  
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/pineapple.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/pineapple.json"
+  },   
+
+  {
+	"side": "Server",
+    "op": "add",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/soybean.json"
+  },
+  {
+	"side": "Server",
+    "op": "add",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/soybean.json"
+  },   
+  
+  {
+	"side": "Server",
+    "op": "add",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/turnip.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/turnip.json"
+  },   
+  
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/bellpepper.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/bellpepper.json"
+  },   
+  
+  {
+	"side": "Server",
+    "op": "add",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/cabbage.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/cabbage.json"
+  },   
+  
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/carrot.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/carrot.json"
+  },   
+
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/crop/cassava.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/crop/cassava.json"
+  },
+  
+  {
+	"side": "Server",
+    "op": "add",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -15,
+    "file": "blocktypes/plant/pumpkin/motherplant.json"
+  },
+  {
+	"side": "Server",
+    "op": "add",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 50,
+    "file": "blocktypes/plant/pumpkin/motherplant.json"
+  },  
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/tickGrowthProbability",
+    "value": 0.25,
+    "file": "blocktypes/plant/pumpkin/motherplant.json"
+  },  
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/cropProps/behaviors/0/properties/vineGrowthQuantity/avg",
+    "value": 4,
+    "file": "blocktypes/plant/pumpkin/motherplant.json"
+  },
+  
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/resetAboveTemperature",
+    "value": 50,
+    "file": "blocktypes/plant/smallberrybush.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/resetAboveTemperature",
+    "value": 50,
+    "file": "blocktypes/plant/bigberrybush.json"
+  },
+  
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/stopAboveTemperature",
+    "value": 49,
+    "file": "blocktypes/plant/smallberrybush.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/stopAboveTemperature",
+    "value": 49,
+    "file": "blocktypes/plant/bigberrybush.json"
+  },  
+  
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/revertBlockAboveTemperature",
+    "value": 55,
+    "file": "blocktypes/plant/smallberrybush.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/revertBlockAboveTemperature",
+    "value": 55,
+    "file": "blocktypes/plant/bigberrybush.json"
+  }
+]

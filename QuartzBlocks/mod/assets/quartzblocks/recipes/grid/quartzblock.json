@@ -1,0 +1,21 @@
+[
+	{
+		"ingredientPattern": "QQ,QQ",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"Q": { "type": "item", "code": "game:ore-quartz" }
+		},	
+		"output": { "type": "block", "code": "game:quartz-plain", quantity: 4 }
+	},
+	{
+		"ingredientPattern": "_Q_,QCQ,_Q_",
+		"width": 3,
+		"height": 3,
+		"ingredients": {
+			"Q": { "type": "item", "code": "game:ore-quartz" },
+			"C": { "type": "item", "code": "game:clearquartz" }
+		},	
+		"output": { "type": "block", "code": "game:quartz-ornate", quantity: 4 }
+	}
+]

@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "techmolds",
+  "name": "QPTech Molds",
+  "authors": [ "Flexible Games" ],
+  "description": "Adds a few molds to make entry into QPTech easier.",
+  "website": "https://www.youtube.com/c/FlexibleGames",
+  "side": "Universal",
+  "version": "1.0.0",
+  "dependencies": { 
+	"qptech": "1.8.0"
+  }
+}

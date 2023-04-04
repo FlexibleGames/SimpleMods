@@ -1,0 +1,13 @@
+[
+	{
+		"ingredientPattern": "CGC,CSC,CCC",
+		"width": 3,
+		"height": 3,
+		"ingredients": {
+			"C": { "type": "item", "code": "game:compost" },
+			"G": { "type": "item", "code": "game:drygrass", quantity: 16 },
+			"S": { "type": "block", "code": "game:soil-high-none" }
+		},	
+		"output": { "type": "block", "code": "game:soil-high-normal", quantity: 1 }
+	}
+]

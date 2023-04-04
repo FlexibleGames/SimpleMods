@@ -1,0 +1,9 @@
+{
+	"ingredientPattern": "QQQ",
+	"width": 3,
+	"height": 1,
+	"ingredients": {
+		"Q": { "type": "item", "code": "game:ore-quartz" }
+	},	
+	"output": { "type": "block", "code": "game:quartzslab-down-free", quantity: 3 }
+}

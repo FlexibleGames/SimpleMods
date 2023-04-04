@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "QuartzBlocks",
+  "name": "Quartz Blocks Mod",
+  "authors": [ "Flexible Games" ],
+  "description": "Adds recipes to craft Quartz deco blocks.",
+  "website": "https://www.youtube.com/c/FlexibleGames",
+  "side": "Universal",
+  "version": "1.1.0",
+  "dependency": {}
+}

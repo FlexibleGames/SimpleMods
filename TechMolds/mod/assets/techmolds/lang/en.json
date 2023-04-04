@@ -1,0 +1,11 @@
+{	
+	"block-toolmold-burned-rods": "Rod Mold",
+    "block-toolmold-raw-rods": "Raw Rod Mold",
+	"block-toolmold-burned-screws": "Screws Mold",
+    "block-toolmold-raw-screws": "Raw Screws Mold",	
+	"block-toolmold-burned-heatingcoil": "Heating Coil Mold",
+    "block-toolmold-raw-heatingcoil": "Raw Heating Coil Mold",
+	"blockdesc-toolmold-burned-rods": "Makes 6 QPTech metal rods. Copper, Brass, Tin, Iron, or Steel",
+	"blockdesc-toolmold-burned-screws": "Makes 36 QPTech metal screws. Brass or Steel.",
+	"blockdesc-toolmold-burned-heatingcoil": "Makes 1 QPTech heating coil. Copper only."
+}

@@ -1,0 +1,9 @@
+{
+	"ingredientPattern": "Q__,QQ_,QQQ",
+	"width": 3,
+	"height": 3,
+	"ingredients": {
+		"Q": { "type": "item", "code": "game:ore-quartz" }
+	},	
+	"output": { "type": "block", "code": "game:quartzstairs-up-north-free", quantity: 6 }
+}

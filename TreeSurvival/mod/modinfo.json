@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "TreeSurvival",
+  "name": "Fruit Tree Survival",
+  "authors": [ "Flexible Games" ],
+  "description": "Alters fruit trees and allows them to grow faster and in more climates. Crops too.",
+  "website": "https://www.youtube.com/c/FlexibleGames",
+  "side": "Universal",
+  "version": "1.1.0",
+  "dependency": {}
+}

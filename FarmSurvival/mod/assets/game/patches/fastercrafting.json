@@ -1,0 +1,226 @@
+[
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/combustibleProps/burnDuration",
+        "value": 300,
+        "file": "blocktypes/wood/pitkiln.json"        
+    },
+
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/attributes/buildMats/fuel/0/burnTimeHours",
+        "value": 4,
+        "file": "blocktypes/wood/pitkiln.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/attributes/buildMats/fuel/1/burnTimeHours",
+        "value": 3,
+        "file": "blocktypes/wood/pitkiln.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/attributes/buildMats/fuel/2/burnTimeHours",
+        "value": 1,
+        "file": "blocktypes/wood/pitkiln.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/attributes/buildMats/fuel/3/burnTimeHours",
+        "value": 1,
+        "file": "blocktypes/wood/pitkiln.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/attributes/buildMats/fuel/4/burnTimeHours",
+        "value": 3,
+        "file": "blocktypes/wood/pitkiln.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/attributes/buildMats/fuel/5/burnTimeHours",
+        "value": 2,
+        "file": "blocktypes/wood/pitkiln.json"
+    },
+
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/sealHours",
+        "value": 12,
+        "file": "recipes/barrel/cheesemaking/curdledmilk.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/sealHours",
+        "value": 6,
+        "file": "recipes/barrel/cheesemaking/cottagecheese.json"
+    }, 
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/sealHours",
+        "value": 12,
+        "file": "recipes/barrel/cheesemaking/curdledmilk-alt.json"
+    }, 
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/sealHours",
+        "value": 24,
+        "file": "recipes/barrel/curedmeat.json"
+    },  
+
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/0/sealHours",
+        "value": 12,
+        "file": "recipes/barrel/leather.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/1/sealHours",
+        "value": 12,
+        "file": "recipes/barrel/leather.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/2/sealHours",
+        "value": 12,
+        "file": "recipes/barrel/leather.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/3/sealHours",
+        "value": 12,
+        "file": "recipes/barrel/leather.json"
+    },   
+    
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/0/sealHours",
+        "value": 6,
+        "file": "recipes/barrel/preparedhide.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/1/sealHours",
+        "value": 6,
+        "file": "recipes/barrel/preparedhide.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/2/sealHours",
+        "value": 6,
+        "file": "recipes/barrel/preparedhide.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/3/sealHours",
+        "value": 6,
+        "file": "recipes/barrel/preparedhide.json"
+    },
+
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/0/sealHours",
+        "value": 4,
+        "file": "recipes/barrel/soakedhide-borax.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/1/sealHours",
+        "value": 4,
+        "file": "recipes/barrel/soakedhide-borax.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/2/sealHours",
+        "value": 4,
+        "file": "recipes/barrel/soakedhide-borax.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/3/sealHours",
+        "value": 4,
+        "file": "recipes/barrel/soakedhide-borax.json"
+    },
+
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/0/sealHours",
+        "value": 5,
+        "file": "recipes/barrel/soakedhide-lime.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/1/sealHours",
+        "value": 5,
+        "file": "recipes/barrel/soakedhide-lime.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/2/sealHours",
+        "value": 5,
+        "file": "recipes/barrel/soakedhide-lime.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/3/sealHours",
+        "value": 5,
+        "file": "recipes/barrel/soakedhide-lime.json"
+    },
+
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/0/sealHours",
+        "value": 4,
+        "file": "recipes/barrel/strongtannin.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/1/sealHours",
+        "value": 4,
+        "file": "recipes/barrel/strongtannin.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/0/sealHours",
+        "value": 4,
+        "file": "recipes/barrel/weaktannin.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/1/sealHours",
+        "value": 4,
+        "file": "recipes/barrel/weaktannin.json"
+    }
+]

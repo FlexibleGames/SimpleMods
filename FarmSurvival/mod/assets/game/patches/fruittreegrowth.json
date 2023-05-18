@@ -3,84 +3,84 @@
 	"side": "Server",
     "op": "replace",
     "path": "/attributes/fruittreeProperties/pinkapple/growthStepDays/avg",
-    "value": 3,
+    "value": 2,
     "file": "blocktypes/plant/fruittreebranch.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/attributes/fruittreeProperties/redapple/growthStepDays/avg",
-    "value": 3,
+    "value": 2,
     "file": "blocktypes/plant/fruittreebranch.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/attributes/fruittreeProperties/yellowapple/growthStepDays/avg",
-    "value": 3,
+    "value": 2,
     "file": "blocktypes/plant/fruittreebranch.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/attributes/fruittreeProperties/cherry/growthStepDays/avg",
-    "value": 3,
+    "value": 2,
     "file": "blocktypes/plant/fruittreebranch.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/attributes/fruittreeProperties/mango/growthStepDays/avg",
-    "value": 3,
+    "value": 2,
     "file": "blocktypes/plant/fruittreebranch.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/attributes/fruittreeProperties/olive/growthStepDays/avg",
-    "value": 3,
+    "value": 2,
     "file": "blocktypes/plant/fruittreebranch.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/attributes/fruittreeProperties/orange/growthStepDays/avg",
-    "value": 3,
+    "value": 2,
     "file": "blocktypes/plant/fruittreebranch.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/attributes/fruittreeProperties/peach/growthStepDays/avg",
-    "value": 3,
+    "value": 2,
     "file": "blocktypes/plant/fruittreebranch.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/attributes/fruittreeProperties/pear/growthStepDays/avg",
-    "value": 3,
+    "value": 2,
     "file": "blocktypes/plant/fruittreebranch.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/attributes/fruittreeProperties/breadfruit/growthStepDays/avg",
-    "value": 3,
+    "value": 2,
     "file": "blocktypes/plant/fruittreebranch.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/attributes/fruittreeProperties/lychee/growthStepDays/avg",
-    "value": 3,
+    "value": 2,
     "file": "blocktypes/plant/fruittreebranch.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/attributes/fruittreeProperties/pomegranate/growthStepDays/avg",
-    "value": 3,
+    "value": 2,
     "file": "blocktypes/plant/fruittreebranch.json"
   },
   {
@@ -256,7 +256,21 @@
 	"side": "Server",
     "op": "replace",
     "path": "/treeBlocks/otherLogChance",
-    "value": 0.1,
+    "value": 0.15,
     "file": "worldgen/treegen/scotspine.json"
-  }
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/treeBlocks/otherLogChance",
+    "value": 0.1,
+    "file": "worldgen/treegen/acacia.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/treeBlocks/otherLogChance",
+    "value": 0.1,
+    "file": "worldgen/treegen/mountainpine.json"
+  }  
 ]

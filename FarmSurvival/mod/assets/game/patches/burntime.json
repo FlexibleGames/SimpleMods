@@ -1,0 +1,37 @@
+[
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/combustibleProps/burnDuration",
+        "value": 240,
+        "file": "itemtypes/resource/coke.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/combustibleProps/burnDuration",
+        "value": 180,
+        "file": "itemtypes/resource/charcoal.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/combustibleProps/burnDuration",
+        "value": 120,
+        "file": "itemtypes/resource/firewood.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/combustibleProps/burnDuration",
+        "value": 240,
+        "file": "itemtypes/resource/firewood-aged.json"
+    },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1100,
+        "file": "itemtypes/resource/firewood-aged.json"
+    }
+]

@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "FarmSurvival",
+  "name": "Farm Survival",
+  "authors": [ "Flexible Games" ],
+  "description": "Alters fruit trees and allows them to grow faster and in more climates. Crops too. Also alters barrel and pitkiln crafting to be faster and faster animal breeding.",
+  "website": "https://www.youtube.com/c/FlexibleGames",
+  "side": "Universal",
+  "version": "1.3.0",
+  "dependency": {}
+}

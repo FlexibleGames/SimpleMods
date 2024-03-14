@@ -1,5 +1,8 @@
-# Tree Survival
+# Farm Survival
 A mod for Vintage Story
+
+# v1.4
+Added a patch for standard nutrient cost of all crop types. Delete "farmnutrients.json" patch file to cancel.
 
 ## Purpose
 Attempts to make fruit trees grow faster at a higher success rate. I've played my worlds for many years and I have yet to harvest fruit from a tree. Frustrating.

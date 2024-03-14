@@ -54,7 +54,7 @@
         "side": "Server",
         "op": "replace",
         "path": "/sealHours",
-        "value": 12,
+        "value": 6,
         "file": "recipes/barrel/cheesemaking/curdledmilk.json"
     },
     {
@@ -68,14 +68,14 @@
         "side": "Server",
         "op": "replace",
         "path": "/sealHours",
-        "value": 12,
+        "value": 6,
         "file": "recipes/barrel/cheesemaking/curdledmilk-alt.json"
     }, 
     {
         "side": "Server",
         "op": "replace",
         "path": "/sealHours",
-        "value": 24,
+        "value": 6,
         "file": "recipes/barrel/curedmeat.json"
     },  
 
@@ -83,28 +83,28 @@
         "side": "Server",
         "op": "replace",
         "path": "/0/sealHours",
-        "value": 12,
+        "value": 6,
         "file": "recipes/barrel/leather.json"
     },
     {
         "side": "Server",
         "op": "replace",
         "path": "/1/sealHours",
-        "value": 12,
+        "value": 6,
         "file": "recipes/barrel/leather.json"
     },
     {
         "side": "Server",
         "op": "replace",
         "path": "/2/sealHours",
-        "value": 12,
+        "value": 6,
         "file": "recipes/barrel/leather.json"
     },
     {
         "side": "Server",
         "op": "replace",
         "path": "/3/sealHours",
-        "value": 12,
+        "value": 6,
         "file": "recipes/barrel/leather.json"
     },   
     
@@ -112,28 +112,28 @@
         "side": "Server",
         "op": "replace",
         "path": "/0/sealHours",
-        "value": 6,
+        "value": 4,
         "file": "recipes/barrel/preparedhide.json"
     },
     {
         "side": "Server",
         "op": "replace",
         "path": "/1/sealHours",
-        "value": 6,
+        "value": 4,
         "file": "recipes/barrel/preparedhide.json"
     },
     {
         "side": "Server",
         "op": "replace",
         "path": "/2/sealHours",
-        "value": 6,
+        "value": 4,
         "file": "recipes/barrel/preparedhide.json"
     },
     {
         "side": "Server",
         "op": "replace",
         "path": "/3/sealHours",
-        "value": 6,
+        "value": 4,
         "file": "recipes/barrel/preparedhide.json"
     },
 
@@ -170,28 +170,28 @@
         "side": "Server",
         "op": "replace",
         "path": "/0/sealHours",
-        "value": 5,
+        "value": 4,
         "file": "recipes/barrel/soakedhide-lime.json"
     },
     {
         "side": "Server",
         "op": "replace",
         "path": "/1/sealHours",
-        "value": 5,
+        "value": 4,
         "file": "recipes/barrel/soakedhide-lime.json"
     },
     {
         "side": "Server",
         "op": "replace",
         "path": "/2/sealHours",
-        "value": 5,
+        "value": 4,
         "file": "recipes/barrel/soakedhide-lime.json"
     },
     {
         "side": "Server",
         "op": "replace",
         "path": "/3/sealHours",
-        "value": 5,
+        "value": 4,
         "file": "recipes/barrel/soakedhide-lime.json"
     },
 

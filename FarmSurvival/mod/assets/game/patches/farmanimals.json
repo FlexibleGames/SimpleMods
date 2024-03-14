@@ -100,6 +100,20 @@
     "file": "entities/land/sheep-bighorn-female.json"
   },   
   {
+    "side": "Server",
+    "op": "replace",
+    "path": "/server/behaviors/9/states/0/stressLevel",
+    "value": 0,
+    "file": "entities/land/sheep-bighorn-female.json"
+  },
+  {
+    "side": "Server",
+      "op": "replace",
+      "path": "/server/behaviors/9/state/1/stressLevel",
+      "value": 0,
+      "file": "entities/land/sheep-bighorn-female.json"
+  },      
+  {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantity/avg",

@@ -109,7 +109,7 @@
   {
     "side": "Server",
       "op": "replace",
-      "path": "/server/behaviors/9/state/1/stressLevel",
+      "path": "/server/behaviors/9/states/1/stressLevel",
       "value": 0,
       "file": "entities/land/sheep-bighorn-female.json"
   },      

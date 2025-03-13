@@ -3,7 +3,7 @@
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/7/hoursToGrow",
-    "value": 4,
+    "value": 24,
     "file": "entities/land/chicken-baby.json"
   },
   {
@@ -12,12 +12,12 @@
     "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
     "value": 3.75,
     "file": "entities/land/chicken-hen.json"
-  },  
+  },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/8/hoursToGrow",
-    "value": 2,
+    "value": 24,
     "file": "entities/land/chicken-hen.json"
   },
   {
@@ -26,12 +26,12 @@
     "path": "/server/behaviors/6/drops/0/quantityByType/*/avg",
     "value": 3.75,
     "file": "entities/land/chicken-rooster.json"
-  },  
+  },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/7/hoursToGrow",
-    "value": 2,
+    "value": 24,
     "file": "entities/land/chicken-rooster.json"
   },
 
@@ -39,7 +39,7 @@
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrow",
-    "value": 8,
+    "value": 48,
     "file": "entities/land/pig-wild-piglet.json"
   },
   {
@@ -53,29 +53,29 @@
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/8/spawnQuantityMin",
-    "value": 4,
+    "value": 3,
     "file": "entities/land/pig-wild-female.json"
-  },  
+  },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/8/pregnancyDays",
-    "value": 5,
+    "value": 9,
     "file": "entities/land/pig-wild-female.json"
-  },   
+  },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantity/avg",
     "value": 10,
     "file": "entities/land/pig-wild-male.json"
-  },  
+  },
 
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrow",
-    "value": 24,
+    "value": 48,
     "file": "entities/land/sheep-bighorn-lamb.json"
   },
   {
@@ -89,16 +89,16 @@
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/8/spawnQuantityMax",
-    "value": 3,
+    "value": 2,
     "file": "entities/land/sheep-bighorn-female.json"
-  },  
+  },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/8/pregnancyDays",
-    "value": 5,
+    "value": 9,
     "file": "entities/land/sheep-bighorn-female.json"
-  },   
+  },
   {
     "side": "Server",
     "op": "replace",
@@ -112,14 +112,14 @@
       "path": "/server/behaviors/9/states/1/stressLevel",
       "value": 0,
       "file": "entities/land/sheep-bighorn-female.json"
-  },      
+  },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantity/avg",
     "value": 14,
     "file": "entities/land/sheep-bighorn-male.json"
-  }, 
+  },
   {
 	"side": "Server",
     "op": "replace",

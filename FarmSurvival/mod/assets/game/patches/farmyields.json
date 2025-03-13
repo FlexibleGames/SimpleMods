@@ -1,0 +1,16 @@
+[
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/output/quantity",
+    "value": 10,
+    "file": "recipes/grid/pumpkinseed.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/tickGrowthProbability",
+    "value": 0.50,
+    "file": "blocktypes/plant/crop/flax.json"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "hardenedclay",
+  "name": "Hardened Clay",
+  "authors": [ "Flexible Games" ],
+  "description": "A very simple mod that adds BrickLayers Hardened Clay colors that I might bask in the glory of the Cathedral once more.",
+  "website": "https://www.youtube.com/c/FlexibleGames",
+  "side": "Universal",
+  "version": "1.0.0",
+  "dependency": {}
+}

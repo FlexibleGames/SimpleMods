@@ -166,7 +166,7 @@
     "path": "/attributes/fruittreeProperties/pomegranate/cuttingRootingChance",
     "value": 0.9,
     "file": "blocktypes/plant/fruittreebranch.json"
-  },  
+  },
   {
 	"side": "Server",
     "op": "replace",
@@ -251,7 +251,7 @@
     "value": 0.9,
     "file": "blocktypes/plant/fruittreebranch.json"
   },
-  
+
   {
 	"side": "Server",
     "op": "replace",
@@ -263,7 +263,7 @@
 	"side": "Server",
     "op": "replace",
     "path": "/treeBlocks/otherLogChance",
-    "value": 0.1,
+    "value": 0.02,
     "file": "worldgen/treegen/acacia.json"
   },
   {
@@ -272,5 +272,5 @@
     "path": "/treeBlocks/otherLogChance",
     "value": 0.1,
     "file": "worldgen/treegen/mountainpine.json"
-  }  
+  }
 ]

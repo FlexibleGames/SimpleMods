@@ -4,7 +4,7 @@
         "op": "replace",
         "path": "/combustibleProps/burnDuration",
         "value": 300,
-        "file": "blocktypes/wood/pitkiln.json"        
+        "file": "blocktypes/wood/pitkiln.json"
     },
 
     {
@@ -25,7 +25,7 @@
         "side": "Server",
         "op": "replace",
         "path": "/attributes/buildMats/fuel/2/burnTimeHours",
-        "value": 1,
+        "value": 2,
         "file": "blocktypes/wood/pitkiln.json"
     },
     {
@@ -49,6 +49,13 @@
         "value": 2,
         "file": "blocktypes/wood/pitkiln.json"
     },
+    {
+        "side": "Server",
+        "op": "replace",
+        "path": "/attributes/buildMats/fuel/6/burnTimeHours",
+        "value": 2,
+        "file": "blocktypes/wood/pitkiln.json"
+    },
 
     {
         "side": "Server",
@@ -63,21 +70,21 @@
         "path": "/sealHours",
         "value": 6,
         "file": "recipes/barrel/cheesemaking/cottagecheese.json"
-    }, 
+    },
     {
         "side": "Server",
         "op": "replace",
         "path": "/sealHours",
         "value": 6,
         "file": "recipes/barrel/cheesemaking/curdledmilk-alt.json"
-    }, 
+    },
     {
         "side": "Server",
         "op": "replace",
         "path": "/sealHours",
-        "value": 6,
+        "value": 24,
         "file": "recipes/barrel/curedmeat.json"
-    },  
+    },
 
     {
         "side": "Server",
@@ -106,8 +113,8 @@
         "path": "/3/sealHours",
         "value": 6,
         "file": "recipes/barrel/leather.json"
-    },   
-    
+    },
+
     {
         "side": "Server",
         "op": "replace",
@@ -206,7 +213,7 @@
         "side": "Server",
         "op": "replace",
         "path": "/1/sealHours",
-        "value": 4,
+        "value": 2,
         "file": "recipes/barrel/strongtannin.json"
     },
     {
@@ -220,7 +227,7 @@
         "side": "Server",
         "op": "replace",
         "path": "/1/sealHours",
-        "value": 4,
+        "value": 2,
         "file": "recipes/barrel/weaktannin.json"
     }
 ]

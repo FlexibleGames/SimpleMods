@@ -19,7 +19,7 @@
     "path": "/cropProps/totalGrowthMonths",
     "value": 1.2,
     "file": "blocktypes/plant/crop/bellpepper.json"
-  },   
+  },
   {
 	"side": "Server",
     "op": "replace",
@@ -33,7 +33,7 @@
     "path": "/cropProps/nutrientConsumption",
     "value": 5,
     "file": "blocktypes/plant/crop/carrot.json"
-  },   
+  },
   {
 	"side": "Server",
     "op": "replace",
@@ -46,13 +46,6 @@
     "op": "replace",
     "path": "/cropProps/nutrientConsumption",
     "value": 5,
-    "file": "blocktypes/plant/crop/flax.json"
-  },     
-  {
-	"side": "Server",
-    "op": "replace",
-    "path": "/cropProps/nutrientConsumption",
-    "value": -15,
     "file": "blocktypes/plant/crop/flax.json"
   },
   {
@@ -75,7 +68,7 @@
     "path": "/cropProps/nutrientConsumption",
     "value": 5,
     "file": "blocktypes/plant/crop/peanut.json"
-  },     
+  },
   {
 	"side": "Server",
     "op": "replace",
@@ -89,7 +82,7 @@
     "path": "/cropProps/totalGrowthMonths",
     "value": 2,
     "file": "blocktypes/plant/crop/pineapple.json"
-  }, 
+  },
   {
 	"side": "Server",
     "op": "replace",
@@ -103,7 +96,7 @@
     "path": "/cropProps/totalGrowthMonths",
     "value": 1.5,
     "file": "blocktypes/plant/crop/rice.json"
-  },   
+  },
   {
 	"side": "Server",
     "op": "replace",
@@ -117,7 +110,7 @@
     "path": "/cropProps/nutrientConsumption",
     "value": 5,
     "file": "blocktypes/plant/crop/soybean.json"
-  },   
+  },
   {
 	"side": "Server",
     "op": "replace",
@@ -131,14 +124,14 @@
     "path": "/cropProps/nutrientConsumption",
     "value": 5,
     "file": "blocktypes/plant/crop/sunflower.json"
-  },     
+  },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/cropProps/nutrientConsumption",
     "value": 5,
     "file": "blocktypes/plant/crop/turnip.json"
-  },  
+  },
   {
 	"side": "Server",
     "op": "replace",

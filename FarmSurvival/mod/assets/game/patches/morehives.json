@@ -1,0 +1,30 @@
+[
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/21/chance",
+    "value": 0.55,
+    "file": "worldgen/blockpatches/other.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/21/minRain",
+    "value": 0.15,
+    "file": "worldgen/blockpatches/other.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/21/minForest",
+    "value": 0.10,
+    "file": "worldgen/blockpatches/other.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/22/chance",
+    "value": 0.15,
+    "file": "worldgen/blockpatches/other.json"
+  }
+]

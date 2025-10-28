@@ -4,127 +4,133 @@
     "op": "replace",
     "path": "/server/behaviors/7/hoursToGrow",
     "value": 24,
-    "file": "entities/land/chicken-baby.json"
+    "file": "entities/animal/bird/chicken-baby.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
     "value": 3.75,
-    "file": "entities/land/chicken-hen.json"
+    "file": "entities/animal/bird/chicken-adult.json"
   },
   {
 	"side": "Server",
     "op": "replace",
-    "path": "/server/behaviors/8/hoursToGrow",
-    "value": 24,
-    "file": "entities/land/chicken-hen.json"
+    "path": "/server/behaviors/8/hoursToGrowByType/*-henpoult",
+    "value": 48,
+    "file": "entities/animal/bird/chicken-adult.json"
   },
   {
 	"side": "Server",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*/avg",
-    "value": 3.75,
-    "file": "entities/land/chicken-rooster.json"
+    "path": "/server/behaviors/8/hoursToGrowByType/*-roosterpoult",
+    "value": 52,
+    "file": "entities/animal/bird/chicken-adult.json"
   },
-  {
-	"side": "Server",
-    "op": "replace",
-    "path": "/server/behaviors/7/hoursToGrow",
-    "value": 24,
-    "file": "entities/land/chicken-rooster.json"
-  },
-
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrow",
     "value": 48,
-    "file": "entities/land/pig-wild-piglet.json"
+    "file": "entities/animal/mammal/hooved/pig-baby.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantity/avg",
     "value": 11,
-    "file": "entities/land/pig-wild-female.json"
+    "file": "entities/animal/mammal/hooved/pig-adult.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/8/spawnQuantityMin",
     "value": 3,
-    "file": "entities/land/pig-wild-female.json"
+    "file": "entities/animal/mammal/hooved/pig-adult.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/8/pregnancyDays",
     "value": 9,
-    "file": "entities/land/pig-wild-female.json"
+    "file": "entities/animal/mammal/hooved/pig-adult.json"
   },
   {
 	"side": "Server",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantity/avg",
-    "value": 10,
-    "file": "entities/land/pig-wild-male.json"
+    "path": "/server/behaviors/6/drops/2/quantity/avg",
+    "value": 5,
+    "file": "entities/animal/mammal/hooved/pig-adult.json"
   },
 
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrow",
-    "value": 48,
-    "file": "entities/land/sheep-bighorn-lamb.json"
+    "value": 60,
+    "file": "entities/animal/mammal/hooved/sheep-baby.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantity/avg",
-    "value": 12,
-    "file": "entities/land/sheep-bighorn-female.json"
+    "value": 19,
+    "file": "entities/animal/mammal/hooved/sheep-adult.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantity/avg",
+    "value": 2.3,
+    "file": "entities/animal/mammal/hooved/sheep-adult.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantity/avg",
+    "value": 2.3,
+    "file": "entities/animal/mammal/hooved/sheep-adult.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/8/spawnQuantityMax",
     "value": 2,
-    "file": "entities/land/sheep-bighorn-female.json"
+    "file": "entities/animal/mammal/hooved/sheep-adult.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/8/pregnancyDays",
-    "value": 9,
-    "file": "entities/land/sheep-bighorn-female.json"
+    "value": 10,
+    "file": "entities/animal/mammal/hooved/sheep-adult.json"
   },
   {
     "side": "Server",
     "op": "replace",
-    "path": "/server/behaviors/9/states/0/stressLevel",
-    "value": 0,
-    "file": "entities/land/sheep-bighorn-female.json"
-  },
-  {
-    "side": "Server",
-      "op": "replace",
-      "path": "/server/behaviors/9/states/1/stressLevel",
-      "value": 0,
-      "file": "entities/land/sheep-bighorn-female.json"
-  },
-  {
-	"side": "Server",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantity/avg",
-    "value": 14,
-    "file": "entities/land/sheep-bighorn-male.json"
+    "path": "/server/behaviors/9/states/1/chanceByType/*-female",
+    "value": 0.01,
+    "file": "entities/animal/mammal/hooved/sheep-adult.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/code",
     "value": "redmeat-raw",
-    "file": "entities/land/bear.json"
+    "file": "entities/animal/mammal/bear-adult.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/bear-black-*/avg",
+    "value": "24",
+    "file": "entities/animal/mammal/bear-adult.json"
+  },
+  {
+	  "side": "Server",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/bear-brown-*/avg",
+    "value": "24",
+    "file": "entities/animal/mammal/bear-adult.json"
   }
 ]

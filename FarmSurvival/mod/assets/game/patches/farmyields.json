@@ -3,14 +3,42 @@
 	"side": "Server",
     "op": "replace",
     "path": "/output/quantity",
-    "value": 10,
+    "value": 20,
     "file": "recipes/grid/pumpkinseed.json"
   },
   {
 	"side": "Server",
     "op": "replace",
     "path": "/attributes/tickGrowthProbability",
-    "value": 0.50,
+    "value": 0.40,
+    "file": "blocktypes/plant/pumpkin/motherplant.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/tickGrowthProbability",
+    "value": 0.40,
     "file": "blocktypes/plant/crop/flax.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/attributes/tickGrowthProbability",
+    "value": 0.40,
+    "file": "blocktypes/plant/crop/sunflower.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/dropsByType/*-12/0/quantity/avg",
+    "value": 10,
+    "file": "blocktypes/plant/crop/sunflower.json"
+  },
+  {
+	"side": "Server",
+    "op": "replace",
+    "path": "/dropsByType/*-12/1/quantity/avg",
+    "value": 26,
+    "file": "blocktypes/plant/crop/sunflower.json"
   }
 ]

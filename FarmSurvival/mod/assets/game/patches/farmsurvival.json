@@ -181,21 +181,6 @@
 
   {
 	"side": "Server",
-    "op": "addmerge",
-    "path": "/cropProps/coldDamageBelow",
-    "value": -15,
-    "file": "blocktypes/plant/crop/bellpepper.json"
-  },
-  {
-	"side": "Server",
-    "op": "addmerge",
-    "path": "/cropProps/heatDamageAbove",
-    "value": 50,
-    "file": "blocktypes/plant/crop/bellpepper.json"
-  },
-
-  {
-	"side": "Server",
     "op": "add",
     "path": "/cropProps/coldDamageBelow",
     "value": -15,
@@ -271,45 +256,22 @@
   {
 	"side": "Server",
     "op": "addmerge",
-    "path": "/attributes/resetAboveTemperature",
+    "path": "/attributes/growthProperties/resetGrowthAboveTemperature",
     "value": 50,
-    "file": "blocktypes/plant/smallberrybush.json"
+    "file": "blocktypes/plant/fruitingbush.json"
   },
   {
 	"side": "Server",
     "op": "addmerge",
-    "path": "/attributes/resetAboveTemperature",
-    "value": 50,
-    "file": "blocktypes/plant/bigberrybush.json"
-  },
-
-  {
-	"side": "Server",
-    "op": "addmerge",
-    "path": "/attributes/stopAboveTemperature",
+    "path": "/attributes/growthProperties/pauseGrowthAboveTemperature",
     "value": 49,
-    "file": "blocktypes/plant/smallberrybush.json"
+    "file": "blocktypes/plant/fruitingbush.json"
   },
   {
 	"side": "Server",
     "op": "addmerge",
-    "path": "/attributes/stopAboveTemperature",
-    "value": 49,
-    "file": "blocktypes/plant/bigberrybush.json"
-  },
-
-  {
-	"side": "Server",
-    "op": "addmerge",
-    "path": "/attributes/revertBlockAboveTemperature",
-    "value": 55,
-    "file": "blocktypes/plant/smallberrybush.json"
-  },
-  {
-	"side": "Server",
-    "op": "addmerge",
-    "path": "/attributes/revertBlockAboveTemperature",
-    "value": 55,
-    "file": "blocktypes/plant/bigberrybush.json"
+    "path": "/attributes/growthProperties/youngStageMonths/avg",
+    "value": 2,
+    "file": "blocktypes/plant/fruitingbush.json"
   }
 ]
